@@ -1,3 +1,9 @@
+# Video Player
+
+## Future Updates
+ - CSS Styling
+ - Thumbnail on click starts video at whatever timestamp the thumbnail is at.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
