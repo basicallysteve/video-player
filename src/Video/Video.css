@@ -6,4 +6,20 @@
     width: 60%;
     margin-right: 150px;
     margin-top: 10px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.video-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(255, 255, 255, .5);
+    margin: 10px;
+    width: 100%;
+}
+
+.like-button {
+    cursor: pointer;
 }
