@@ -1,0 +1,10 @@
+.thumbnails {
+    display: flex;
+    flex-flow: column;
+}
+
+
+.thumbnail {
+    width: 250px;
+    margin: 10px;
+}
